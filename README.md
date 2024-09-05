@@ -11,7 +11,7 @@
 
 저는 레벨 디자인 및 레벨 시퀀스, NPC 기초시스템 제작을 담당하였습니다.</br>
 
-# 2. pdf파일 / 시연영상, 시연 방법
+# 2. pdf파일 / 시연 영상, 시연 방법
 
 pdf 파일 : https://drive.google.com/file/d/1Bci_4wUgLTYvMpogvJuFYjQqZ_Md_1BF/view?usp=sharing</br>
 
@@ -32,6 +32,8 @@ MorigeshPlayerCharacter :Content/ParagonMorigesh/Characters/Heroes/Morigesh/Mori
 GI : Content/00_Game/GI_TempGI.uasset</br>
 
 ### 레벨 시퀀스 위치</br>
+시연연상은 레벨 시퀀스를 위주로 찍혀있습니다. </br>
+시연 영상 : https://youtu.be/gmzcJQ1fW20?si=tligykyq4C6KI9hz </br>
 Content/06_LevelSequence의 01,02,03,04 - Root 파일</br>
 
 ### Spline Wall</br>
@@ -62,3 +64,15 @@ Content/06_LevelSequence의 01,02,03,04 - Root 파일</br>
 경로
 Content/09_Materials/01_MaterialInstance/MI_TowerWall.uasset</br>
 Content/09_Materials/01_MaterialInstance/MI_Wall.uasset</br>
+
+### 프로시저럴 폴리지</br>
+![image](https://github.com/user-attachments/assets/82c59fff-4bfa-4b3d-a674-155959893ded)</br>
+![image](https://github.com/user-attachments/assets/d00418c0-ba00-4909-8bd0-fa6c6e5e4046)</br>
+
+폴리지 원본 : Content/09_Materials/05_Foliage/SMF_Pinus.uasset</br>
+스포너</br>
+![image](https://github.com/user-attachments/assets/c21327f0-92e3-4dce-8cd1-8a928b3ef5e2)
+
+### 에디터 유틸리티</br>
+![image](https://github.com/user-attachments/assets/54f4094d-e805-4328-ae12-1224d7791839)</br>
+Content/11_EditorUtility/EU_Test.uasset
