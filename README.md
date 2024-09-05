@@ -15,7 +15,7 @@
 
 pdf 파일 : https://drive.google.com/file/d/1Bci_4wUgLTYvMpogvJuFYjQqZ_Md_1BF/view?usp=sharing</br>
 
-시연 영상 : https://youtu.be/gmzcJQ1fW20?si=tligykyq4C6KI9hz</br>
+레벨 시퀀스 : https://youtu.be/gmzcJQ1fW20?si=tligykyq4C6KI9hz</br>
 
 Contents/01_Level/M_Entry_01 을 실행하면 됩니다.</br>
 Numpad 7을 누르면 레벨시퀀스가 스킵됩니다.</br>
@@ -32,8 +32,7 @@ MorigeshPlayerCharacter :Content/ParagonMorigesh/Characters/Heroes/Morigesh/Mori
 GI : Content/00_Game/GI_TempGI.uasset</br>
 
 ### 레벨 시퀀스 위치</br>
-시연연상은 레벨 시퀀스를 위주로 찍혀있습니다. </br>
-시연 영상 : https://youtu.be/gmzcJQ1fW20?si=tligykyq4C6KI9hz </br>
+레벨 시퀀스 : https://youtu.be/gmzcJQ1fW20?si=tligykyq4C6KI9hz </br>
 Content/06_LevelSequence의 01,02,03,04 - Root 파일</br>
 
 ### Spline Wall</br>
